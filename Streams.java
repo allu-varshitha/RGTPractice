@@ -65,11 +65,5 @@ System.out.println(nl);
 // //min and max streams
 // Optional<Integer>rv=n.stream().reduce((Integer val1,Integer val2)->v2-v1);
 // System.out.println(rv.get());
-
-
-
-
-        
-
     }
 }
